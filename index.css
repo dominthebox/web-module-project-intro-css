@@ -120,3 +120,28 @@ blockquote, q {
         margin: 0 auto 5%;
         text-align: center;
     }
+    span {
+        font-weight: bold;
+    }
+    .campfire img{
+        max-width: 10%;
+        max-height: auto;
+        padding: 0.625rem;
+    }
+    .rv img{
+        max-width: 10%;
+        max-height: auto;
+        padding:0.625rem;
+    }
+
+    /*Bottom Section styles*/
+    .bottom{
+        background-image: url("assets/footer_img.jpg");
+        height:55rem;
+        background-size:cover;
+    }
+    footer {
+        padding: 0%;
+        height:20rem;
+        background-color: #F9E7DC;
+    }

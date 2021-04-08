@@ -123,15 +123,13 @@ blockquote, q {
     span {
         font-weight: bold;
     }
-    .campfire img{
-        max-width: 100%;
-        height: auto;
-        padding: 0.625rem;
+    .campfire{
+        width: 20%;
+        margin: 0 auto;
     }
-    .rv img{
-        max-width: 100%;
-        height: auto;
-        padding:0.625rem;
+    .rv{
+        width: 20%;
+        margin: 0 auto;
     }
 
     /*Bottom Section styles*/
